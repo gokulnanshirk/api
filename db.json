@@ -1,14 +1,14 @@
 {
   "products": [
-    { "id": 1, "title": "Samsung" },
-    { "id": 2, "title": "Sony" },
-    { "id": 3, "title": "Apple" },
-    { "id": 4, "title": "MicroSoft" },
-    { "id": 5, "title": "Dell" },
-    { "id": 6, "title": "Lenovo" },
-    { "id": 7, "title": "HP" },
-    { "id": 8, "title": "Asus" },
-    { "id": 9, "title": "Idea" },
-    { "id": 10, "title": "Vertue" }
+    { "id": 1, "name": "Samsung" },
+    { "id": 2, "name": "Sony" },
+    { "id": 3, "name": "Apple" },
+    { "id": 4, "name": "MicroSoft" },
+    { "id": 5, "name": "Dell" },
+    { "id": 6, "name": "Lenovo" },
+    { "id": 7, "name": "HP" },
+    { "id": 8, "name": "Asus" },
+    { "id": 9, "name": "Idea" },
+    { "id": 10, "name": "Vertue" }
   ]
 }
