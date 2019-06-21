@@ -15,36 +15,50 @@
     {
       "id": 1,
       "title": "React",
-      "price": "12000",
-      "duration": "15 HRS",
+      "price": "22000",
+      "duration": "22 HRS",
       "selected": false
     },
     {
       "id": 2,
       "title": "Angular",
-      "price": "12000",
-      "duration": "15 HRS",
+      "price": "15000",
+      "duration": "14 HRS",
       "selected": false
     },
     {
       "id": 3,
       "title": "Ionic",
-      "price": "12000",
+      "price": "15000",
       "duration": "15 HRS",
       "selected": false
     },
     {
       "id": 4,
       "title": "JavaScript",
-      "price": "12000",
-      "duration": "15 HRS",
+      "price": "17000",
+      "duration": "20 HRS",
       "selected": false
     },
     {
       "id": 5,
       "title": "TypeScript",
-      "price": "12000",
-      "duration": "15 HRS",
+      "price": "10000",
+      "duration": "7 HRS",
+      "selected": false
+    },
+    {
+      "id": 6,
+      "title": "Hybernate",
+      "price": "18000",
+      "duration": "16 HRS",
+      "selected": false
+    },
+    {
+      "id": 7,
+      "title": "Vue",
+      "price": "24000",
+      "duration": "10 HRS",
       "selected": false
     }
   ]
