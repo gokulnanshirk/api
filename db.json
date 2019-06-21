@@ -1,15 +1,15 @@
 {
   "products": [
-    { "id": 1, "name": "Samsung" },
-    { "id": 2, "name": "Sony" },
-    { "id": 3, "name": "Apple" },
-    { "id": 4, "name": "MicroSoft" },
-    { "id": 5, "name": "Dell" },
-    { "id": 6, "name": "Lenovo" },
-    { "id": 7, "name": "HP" },
-    { "id": 8, "name": "Asus" },
-    { "id": 9, "name": "Idea" },
-    { "id": 10, "name": "Vertue" }
+    { "id": 1, "price":"40000","title": "Samsung" },
+    { "id": 2, "price":"30000","title": "Sony" },
+    { "id": 3, "price":"24000","title": "Apple" },
+    { "id": 4, "price":"54000","title": "MicroSoft" },
+    { "id": 5, "price":"65000","title": "Dell" },
+    { "id": 6, "price":"23000","title": "Lenovo" },
+    { "id": 7, "price":"13000","title": "HP" },
+    { "id": 8, "price":"54000","title": "Asus" },
+    { "id": 9, "price":"23000","title": "Idea" },
+    { "id": 10, "price":"61000","title": "Vertue" }
   ],
   "courses": [
     {
